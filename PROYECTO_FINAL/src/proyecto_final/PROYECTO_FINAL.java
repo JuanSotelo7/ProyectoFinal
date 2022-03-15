@@ -8,7 +8,7 @@ package proyecto_final;
 public class PROYECTO_FINAL {
 
     public static void main(String[] args) {
-        // TODO code application logic here
+        System.out.print("Hola Mundo");
     }
     
 }
